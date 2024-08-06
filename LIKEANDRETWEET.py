@@ -13,8 +13,8 @@ class TwitterBot:
         service = Service(CHROME_DRIVER_PATH)
         self.driver = webdriver.Chrome(service=service)
         
-        self.userName = "itachiiuchiha88"  # Replace with your Twitter username
-        self.password = "Mohit868@"    # Replace with your Twitter password
+        self.userName = "itachiia"  # Replace with your Twitter username
+        self.password = "WH878657@"    # Replace with your Twitter password
         self.tweet_urls = [
             'https://x.com/pikaso_me/status/1680761427009630210',
             'https://x.com/pikaso_me/status/1813383693789958458',
